@@ -1,0 +1,60 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-12 20:09:53,276 - INFO - START predicting_diabetes =============================================
+2024-04-12 20:09:53,276 - INFO - START predicting_diabetes Start Time = 2024-04-12 20:09:53
+2024-04-12 20:09:53,276 - INFO - predicting_diabetes Step 0 - Initialize the configuration file parser
+2024-04-12 20:09:53,277 - INFO - Process predicting_diabetes Step 0 - Initializing and starting Logging Process.
+2024-04-12 20:09:53,298 - INFO - Process predicting_diabetes Step 1  - Read in Sample Data Set .
+2024-04-12 20:09:53,545 - INFO - Process predicting_diabetes Step 2.2  - Data Cleansing - Remove duplicates.
+2024-04-12 20:09:53,852 - INFO - Process predicting_diabetes Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 20:09:55,748 - INFO - Process predicting_diabetes Step 7 - Drop the columns that dont help the analysis
+2024-04-12 20:09:56,211 - INFO - Process predicting_diabetes Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 20:09:56,247 - INFO - Process predicting_diabetes Step 8 - Feature Engineering
+2024-04-12 20:10:01,516 - INFO - Process predicting_diabetes Machine Learning Model  - Logistic Regression
+2024-04-12 20:10:01,654 - INFO - Process predicting_diabetes Machine Learning Model  - Decision Tree
+2024-04-12 20:10:01,748 - INFO - Process predicting_diabetes Machine Learning Model  - K Nearest Neighbor
+2024-04-12 20:10:01,828 - INFO - Process predicting_diabetes Machine Learning Model  - Gaussian Naive Bayes
+2024-04-12 20:10:01,878 - INFO - Process predicting_diabetes Machine Learning Model  - Multinomial Naive Bayes
+2024-04-12 20:10:01,924 - INFO - Process predicting_diabetes Machine Learning Model  - Support Vector Classifier
+2024-04-12 20:10:02,112 - INFO - Process predicting_diabetes Machine Learning Model  - Random Forest
+2024-04-12 20:10:02,403 - INFO - Process predicting_diabetes Machine Learning Model  - Multi-layer Perceptron classifier
+2024-04-12 20:10:02,496 - INFO - Process predicting_diabetes Machine Learning Model  - Gradient Boosting
+2024-04-12 20:10:06,129 - INFO - Process predicting_diabetes  K-fold Cross Validation 
+2024-04-12 20:10:09,708 - INFO - PERFORMANCE predicting_diabetes The total process duration was:16.43
+2024-04-12 20:10:09,708 - INFO - PERFORMANCE predicting_diabetes Stop Time = 2024-04-12 20:10:09
+2024-04-12 20:10:09,709 - INFO - PERFORMANCE predicting_diabetes Low process duration less than 3 minutes:16.43
+2024-04-12 20:10:09,709 - INFO - PERFORMANCE predicting_diabetes Performance optimization is optional
+2024-04-12 20:10:09,709 - INFO - END predicting_diabetes =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-12 20:11:11,199 - INFO - START predicting_diabetes =============================================
+2024-04-12 20:11:11,199 - INFO - START predicting_diabetes Start Time = 2024-04-12 20:11:11
+2024-04-12 20:11:11,199 - INFO - predicting_diabetes Step 0 - Initialize the configuration file parser
+2024-04-12 20:11:11,200 - INFO - Process predicting_diabetes Step 0 - Initializing and starting Logging Process.
+2024-04-12 20:11:11,220 - INFO - Process predicting_diabetes Step 1  - Read in Sample Data Set .
+2024-04-12 20:11:11,419 - INFO - Process predicting_diabetes Step 2.2  - Data Cleansing - Remove duplicates.
+2024-04-12 20:11:11,660 - INFO - Process predicting_diabetes Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 20:11:13,497 - INFO - Process predicting_diabetes Step 7 - Drop the columns that dont help the analysis
+2024-04-12 20:11:13,982 - INFO - Process predicting_diabetes Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 20:11:14,007 - INFO - Process predicting_diabetes Step 8 - Feature Engineering
+2024-04-12 20:11:18,932 - INFO - Process predicting_diabetes Machine Learning Model  - Logistic Regression
+2024-04-12 20:11:19,043 - INFO - Process predicting_diabetes Machine Learning Model  - Decision Tree
+2024-04-12 20:11:19,122 - INFO - Process predicting_diabetes Machine Learning Model  - K Nearest Neighbor
+2024-04-12 20:11:19,204 - INFO - Process predicting_diabetes Machine Learning Model  - Gaussian Naive Bayes
+2024-04-12 20:11:19,253 - INFO - Process predicting_diabetes Machine Learning Model  - Multinomial Naive Bayes
+2024-04-12 20:11:19,299 - INFO - Process predicting_diabetes Machine Learning Model  - Support Vector Classifier
+2024-04-12 20:11:19,470 - INFO - Process predicting_diabetes Machine Learning Model  - Random Forest
+2024-04-12 20:11:19,750 - INFO - Process predicting_diabetes Machine Learning Model  - Multi-layer Perceptron classifier
+2024-04-12 20:11:19,843 - INFO - Process predicting_diabetes Machine Learning Model  - Gradient Boosting
+2024-04-12 20:11:23,432 - INFO - Process predicting_diabetes  K-fold Cross Validation 
+2024-04-12 20:11:26,925 - INFO - PERFORMANCE predicting_diabetes The total process duration was:15.73
+2024-04-12 20:11:26,925 - INFO - PERFORMANCE predicting_diabetes Stop Time = 2024-04-12 20:11:26
+2024-04-12 20:11:26,926 - INFO - PERFORMANCE predicting_diabetes Low process duration less than 3 minutes:15.73
+2024-04-12 20:11:26,926 - INFO - PERFORMANCE predicting_diabetes Performance optimization is optional
+2024-04-12 20:11:26,926 - INFO - END predicting_diabetes =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
