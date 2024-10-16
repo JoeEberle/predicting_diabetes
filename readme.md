@@ -39,11 +39,8 @@ To get started with the **Predicting Diabetes** solution repository, follow thes
  ![additional_image](predicting_diabetes.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
